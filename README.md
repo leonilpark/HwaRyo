@@ -8,7 +8,7 @@
 
 
 ## Project
-- [프로젝트명] (링크)
+- [뉴스키워드 기반 실시간 이슈 분석 앱](https://github.com/HwaRyo/Today_News)
 
 ## Activity
 - 수정
